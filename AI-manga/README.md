@@ -1,7 +1,7 @@
 # Manga Cover Creation App
 
 A simple web application that uses OpenAI's API. Users give a title and a 
-one-sentence theme for a manga, such as "Galactic Warriors: In a universe where stars are alive." The app provides a brief blurb or tagline for this manga. DALL-E then generates a potential cover image for the manga.
+one-sentence theme for a manga, such as "Dragon Kingdom: a survival game for the covetted crown". The app then provides a brief synopsis and a cover image for the manga.
 
 ## Run locally
 
