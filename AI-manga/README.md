@@ -10,4 +10,4 @@ one-sentence theme for a manga, such as "Galactic Warriors: In a universe where 
 - Install dependencies using `pnpm install`.
 - Start the development server with `pnpm run dev`.
 - Open your browser and navigate to `http://localhost:5173`.
-- Start making a cover image for your manga!
+- Run the app locally, input any theme, and see the generated manga!
